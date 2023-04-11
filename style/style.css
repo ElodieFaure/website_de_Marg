@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+body {
+    background-position : center}
+
+body {
+    background-color : beige;}
+
+h1{
+    color: rgb(22, 104, 22);
+    background-color: white;}
+
+h2{ color: rgb(53, 149, 53);
+    background-color: white;
+    font-family: 'Lora', serif;
+    text-align: center;}
+
+h1,h2, a{
+    font-family: 'Roboto Condensed', sans-serif;}
+
+h3{ color: red;}
+
+p{
+    text-align: left justify;}
+
+a{
+    text-decoration: none;}
+
+
+.card_white_intro{
+    background-color: white;
+
+    width: 60%;
+    text-align: center;
+    margin: 20px auto;
+    box-shadow: 3px 4px 15px 0px black;
+    border-radius: 6px;
+    padding: 22px ;
+    align-items: stretch;}
+
+.card_white { 
+    background-color: white;
+    width: 65%;
+    text-align: center;
+    margin: 20px auto;
+    box-shadow: 3px 4px 15px 0px black;
+    border-radius: 6px;
+    padding: 22px ;
+    align-items: stretch;}
+
+.card-col{
+    background-color: white;
+    width: 65%;
+    text-align: center;
+    margin: 20px auto;
+    box-shadow: 3px 4px 15px 0px black;
+    border-radius: 6px;
+    padding: 22px ;
+    align-items: stretch;
+    justify-content: space-around;
+    align-content: center;
+    gap: 10px;
+    grid-gap: 16px;
+    margin-top: 3%;}
+
+.card-col-2{
+    background-color: white;
+    width: 65%;
+    text-align: center;
+    margin: 17px auto;;
+    box-shadow: 3px 4px 15px 0px black;
+    border-radius: 6px;
+    padding: 22px ;
+    align-items: stretch;
+    justify-content: space-around;
+    align-content: center;
+    gap: 10px;
+    grid-gap: 16px;}
+
+.container_qui-est-ce{
+    background-color: white;
+    width: 80%;
+    text-align: left justify;
+    margin: 16px auto;
+    box-shadow: 3px 4px 15px 0px black;
+    border-radius: 6px;
+    padding: 22px ;}
+
+
+.container_experience{
+    background-color: white;
+    width: 80%;
+    text-align: left    justify;
+    margin: 16px auto;
+    box-shadow: 3px 4px 15px 0px black;
+    border-radius: 6px;
+    padding: 22px ;
+    display: center;
+    flex-direction: column;
+    gap: 18px;
+    justify-content: space-around;
+    align-items: stretch;
+    align-content: center;}
+
+
+.container_fun_fact{
+    background-color: white;
+    width: 80%;
+    text-align: justify;
+    margin: 16px auto;
+    box-shadow: 3px 4px 15px 0px black;
+    border-radius: 6px;
+    padding: 22px ;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-grow: 5;}
+
+.container_sa_famille{
+    background-color: white;
+    width: 80%;
+    text-align: center;
+    margin: 16px auto;
+    box-shadow: 3px 4px 15px 0px black;
+    border-radius: 6px;
+    padding: 22px ;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    justify-content: space-around;
+    align-items: stretch;}
+
+
+#photo_margaux{
+border-radius: 20%;}
+
+.btn-pink {
+    background-color:rgb(207, 177, 179);
+    border: 1px rgb(207, 177, 179);
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    padding: 8px;
+    width: 25%;
+    margin: 0% auto;}
+
+.btn-pink:hover {
+background-color: white;
+color:rgb(207, 177, 179);
+transition: 1s;}
+
+.list-inline li {
+    display: inline;}
+
+.list-inline{
+    padding: 0%;}
+
+.list-inline a{
+    font-size :48px;
+    color:rgb(207, 177, 179);
+    margin: 0 8px}
+
+.list-inline a:hover{
+    color: red;}
+
+
+#footer{ 
+    background-color: rgb(207, 177, 179);
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    padding: 24px 0;}
+
+
+
+
